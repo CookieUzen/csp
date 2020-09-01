@@ -2,7 +2,7 @@
 
 ##Hierarchy
 
-![hierarchy](file:///Users/darkcorn/Downloads/Screen%20Shot%202020-09-01%20at%2012.31.08%20PM.jpg?raw=true)
+![hierarchy](https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg?raw=true)
 
 Create your separate branch for your features.
 ```bash
