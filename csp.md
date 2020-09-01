@@ -6,13 +6,17 @@ It would include a *Calendar*, *Assessment Database*, *Project Manager*, and a *
 All of the data created would be stored in a database file.
 In order to sync the database across many devices, the user would only have to sync the database file.
 
-## Calendar
+## Calendar --- Jerry
 The calendar contains information about the upcoming classes.
 The calendar should automatically generate the schedule based on a provided cycle, and have self correcting features to manually set the current class of the day.
 
-## Assessment Database
+## Assessment Database --- Uzen
 The Assessment Database shows information about the upcoming assessments.
 The assessments would be scraped from the ManageBac Dashboard iCal file.
+
+## Todolist --- Cobbi
+The todolist contains the non academic related tasks of a student.
+It should store the data based on the "todo.txt" format.
 
 ## Project Manager
 The Project Manager allows the user to categorize their homework/assessments to classes.
