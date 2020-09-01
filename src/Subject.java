@@ -17,7 +17,6 @@ public class Subject {
 		return classroom;
 	}
 
-
 	public Subject ( String name, String teacher, String classroom ) {
 		this.name = name;
 		this.teacher = teacher;
