@@ -2,7 +2,7 @@
 
 CSP is a program that allows IB students to organize their school work systematically.
 It would include a *Calendar*, *Assessment Database*, *Project Manager*, and a *Todolist*.
-z
+
 All of the data created would be stored in a database file.
 In order to sync the database across many devices, the user would only have to sync the database file.
 
@@ -57,6 +57,7 @@ ArrayList<Day> schedule = new ArrayList<Day>();	// ArrayList of Day in a month
 int time			// Time since start of day
 Subject subject		// Subject Class
 String submission	// Submission Type
+String status		// Formative vs Summative vs quiz
 ```
 
 **Subject Database**
