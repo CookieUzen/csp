@@ -2,7 +2,7 @@
 
 ##Hierarchy
 
-![hierarchy](https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg?raw=true)
+![hierarchy](https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg =150x150)
 
 Create your separate branch for your features.
 ```bash
