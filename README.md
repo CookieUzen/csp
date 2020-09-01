@@ -1,9 +1,25 @@
 # CSP Project Description
 
-##Hierarchy
+## Table of Contents
 
-![hierarchy](file:///Users/darkcorn/Downloads/Screen%20Shot%202020-09-01%20at%2012.31.08%20PM.jpg?raw=true)
+* [Mission Statement](#mission-statement)
+* [Hierarchy](#hierarchy)
+* [Usage](#usage)
+* [Progress](#progress)
+* Beta
 
+## Mission Statement
+
+*in development* 
+
+IBCS SL Class Project, base code written in *java*  
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+## Hierarchy
+<img src="https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg" width="40%">
+
+## Usage
 Create your separate branch for your features.
 ```bash
 git branch yourFeature
@@ -32,3 +48,11 @@ To clean the binaries, do
 
 Subject.java provides the constructor Subject.
 Main.java provides the main loop.
+
+## Progress
+
+Contributor | Task|
+------------ | -------------|
+Cobbi | <ul><li>- [ ] ToDo List</li></ul>|
+Uzen | <ul><li>- [ ] Database</li></ul>|
+Jerry | <ul><li>- [ ] Calendar</li></ul>|
