@@ -1,8 +1,9 @@
 # CSP Project Description
 
-##Hierarchy
+## Hierarchy
 
-![hierarchy](<img src="https://github.com/favicon.ico" height="24" width="48">)
+![hierarchy](https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg)
+<img src="https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg" width="40%">
 
 Create your separate branch for your features.
 ```bash
