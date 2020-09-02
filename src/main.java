@@ -14,7 +14,7 @@ public class main {
 		// Print the name of the teacher that teaches Foo Physics
 		System.out.println(foo.getSubjectName("Physics").getTeacher());
 
-		// Prints out the name of  all the classes Platt teaches
+		// Prints out the name of all the classes Platt teaches
 		ArrayList<Subject> platt = foo.getSubjectTeacher("Platt");
 		for ( int i = 0; i < platt.size(); i++ )
 			System.out.println(platt.get(i).getName());
