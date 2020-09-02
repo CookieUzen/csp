@@ -23,13 +23,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Create your separate branch for your features.
 ```bash
 git branch yourFeature
-git checkout youFeature
+git checkout yourFeature
 ```
 
-Put your source code in the src folder.
+## Class
 
-- The package for the Subject class is *main*.
-- Create your own package for your features.
+| Class             | Package            |
+| ------------------|--------------------|
+| Student           | main               |
+| Subject           | main               |
+| Assessment        | Assessment         |
 
 Compile your java files with
 ```bash
